@@ -7,5 +7,6 @@ public class hello_world{
         System.out.println(scnr.nextLine());
         scnr.close();
         //this is ryan testing editing code
+        System.out.println("a new line");
     }
 }
